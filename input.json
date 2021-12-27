@@ -1,0 +1,48 @@
+{
+  [
+    {
+      "id": 1,
+
+      "first_name": "John",
+
+      "last_name": "Doe",
+
+      "email": "johndoe@gmail.com",
+
+      "apps": [
+
+        {
+
+          "id": "0102d44b-acfe-4609-880e-3272dc77b7ca",
+
+          "name": "Angrier Birds",
+
+          "price": "$3.19"
+
+        }
+      ]
+    },
+    {
+      "id": 2
+
+      "first_name": "John2",
+
+      "last_name": "Doe2",
+
+      "email": "johndoe2@gmail.com",
+
+      "apps": [
+
+        {
+
+          "id": "0202d44b-acfe-4609-880e-3272dc77b7bc",
+
+          "name": "Angrier Birds2",
+
+          "price": "$6.19"
+
+        }
+      ]
+    }
+  ]
+}

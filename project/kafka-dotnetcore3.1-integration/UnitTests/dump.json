@@ -1,0 +1,39 @@
+{
+  
+  "rootApps": [
+    {
+      "apps": [
+        {
+          "id": "0102d44b-acfe-4609-880e-3272dc77b7ca",
+
+          "name": "Angrier Birds",
+
+          "price": "$3.19"
+
+        }
+      ],
+      "email": "johndoe@gmail.com",
+      "first_name": "John",
+      "id": 1,
+      "last_name": "Doe"
+    },
+    {
+      "apps": [
+
+        {
+
+          "id": "0202d44b-acfe-4609-880e-3272dc77b7bc",
+
+          "name": "Angrier Birds2",
+
+          "price": "$6.19"
+
+        }
+      ],
+      "email": "johndoe2@gmail.com",
+      "first_name": "John2",
+      "id": 2,
+      "last_name": "Doe2"
+    }
+  ]
+}
